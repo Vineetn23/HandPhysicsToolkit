@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HPTK.unity
+    guid: 025c886d2162511438df58aebcdd4e1b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ef69f8d25779d934897cd27299f98285, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2328f05699ed03b4185516aae818d827, type: 2}
